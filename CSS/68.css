@@ -1,0 +1,150 @@
+body{
+    margin: 0px;
+    min-height: 900px;
+    background-image: linear-gradient(rgb(247,245,245), rgb(234, 219, 90));
+    background-repeat: no-repeat;
+}
+.container{
+    margin: 50px 50px;
+    background-color: #fff;
+    width: 80%;
+    min-height: 200px;
+    border-top: 1px solid #111;
+    border-left: 1px solid #111;
+    border-right: 5px solid #111;
+    border-bottom: 5px solid #111;
+    border-bottom-right-radius: 5px ;
+    border-radius: 20px
+}
+.logoTittle{
+    align-items: center;
+    height: 120px;
+    min-width: 800px;
+    border-bottom: solid 2px rgb(255, 213, 0);
+}
+.logo{
+    float: left;
+    padding: 10px;
+    height: 80px;
+    width: 7%;
+    margin-left: 250px;
+}
+
+.intro{
+    padding: 0px;
+    height: 60px;
+    width: 80%;
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-bottom: 0px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 153, 0);
+    text-shadow: 2px 2px 2px #e67676;
+}
+.nointro{
+    padding-bottom: 40px;
+    height: 60px;
+    width: 60%;
+    margin-top: 0px;
+    margin-left: 300px;
+    margin-bottom: 0px;
+    font-size:30px;
+    color: rgba(15, 221, 15, 0.956);
+    text-shadow: 2px 2px 2px #dffc23;
+}
+
+.je{
+    color: grey;
+    text-shadow: 1px 1px 1px #f6f7ee;
+}
+
+.an{
+    color: grey;
+    text-shadow: 1px 1px 1px #f6f7ee;
+}
+.j{
+    color: rgb(59, 183, 2);
+    text-shadow: 1px 1px 1px #ddf34e;
+
+}
+
+.f{
+    color: rgb(59, 183, 2);
+    text-shadow: 1px 1px 1px #ddf34e;
+
+}
+
+.m{
+    color: rgb(59, 183, 2);
+    text-shadow: 1px 1px 1px #ddf34e;
+
+}
+
+.a{
+    color: rgb(59, 183, 2);
+    text-shadow: 1px 1px 1px #ddf34e;
+
+}
+
+.threeh{
+    float: left;
+    margin-top: 0px;
+    margin-right: 5px;
+}
+.add{
+    width: 60%;
+}
+.menu{
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    float: left;
+    width: 55%;
+    
+}
+.menu1{
+    margin-top: 55px;
+    margin-left: 30px;
+}
+.nocopy{
+    font-style: italic;
+    font-size: 10px;
+    margin-left: 960px;
+    margin-bottom: 7px;
+    clear: both;
+}
+.lec{
+    margin-left: 30px;
+    font-size: 30px;
+    margin-bottom: 0px;
+    font-style: italic;
+}
+.ev{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #18de14;
+}
+.sjv{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.le{
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #18de11;
+}
+.al{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.liner{
+    width: 90%;
+    height: 2px;
+    background-color: rgb(255, 213, 0);
+    margin: auto;
+}

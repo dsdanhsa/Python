@@ -1,0 +1,17 @@
+.d1{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(246, 93, 93);
+    float: right;
+}
+.d2{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(229, 254, 116);
+}
+.d3{
+    width: 200px;
+    height: 100px;
+    background-color: #5de9f6;
+    clear: both;
+}
